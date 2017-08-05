@@ -25,7 +25,7 @@ SECRET_KEY = '^n8!(oz^de_6k!7(xhi)z7!3ty4k0o8mh_l9r+!ng158#nmtfd'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',  '<your_nichebc>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1',  'nichebc.pythonanywhere.com']
 
 
 
